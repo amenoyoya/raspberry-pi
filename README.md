@@ -28,3 +28,9 @@ Read [RaspberryPi_GPIO制御.md](./RaspberryPi_GPIO制御.md)
 そのうち、ちゃんとまとめる
 
 Read [赤外線スマートリモコン制作.md](./赤外線スマートリモコン制作.md)
+
+***
+
+## Raspberry Pi NAS 構築
+
+Read [RaspberryPi_NAS.md](./RaspberryPi_NAS.md)
